@@ -91,7 +91,7 @@ Prototype and build IoT systems without setting up servers or developing web sof
  
 # PROGRAM:
 
-```
+```c++
 #include <WiFi.h>
 
 #include "ThingSpeak.h" // always include thingspeak header file after other header files and custom macros
